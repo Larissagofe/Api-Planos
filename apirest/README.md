@@ -15,10 +15,7 @@ O projeto tem o intuíto de criar produtos, novos planos e atualizá-los.
 Explique como configurar o ambiente ou instalar o projeto. Pode incluir os seguintes passos:
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/usuario/repositorio.git
-   cd repositorio
-
+ 
 2. Digitar comando: compose intall
 
 3. Configurar variáveis do arquivo env:
